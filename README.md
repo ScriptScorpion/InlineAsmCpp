@@ -1,2 +1,2 @@
 # How compile:
-`g++ main.cpp -o exe`
+`g++ Arch.cpp -o exe` Arch - it is your processor architecture
